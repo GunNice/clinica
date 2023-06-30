@@ -10,6 +10,7 @@ import br.com.tech4me.clinica.controller.MedicosController;
 @SpringBootApplication
 public class ClinicaApplication {
 
+	
 	public static void main(String[] args) {
 		SpringApplication.run(ClinicaApplication.class, args);
 		

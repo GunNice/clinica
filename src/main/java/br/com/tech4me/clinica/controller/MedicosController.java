@@ -28,6 +28,7 @@ public class MedicosController {
 
     }
 
+    
     @PostMapping
 	private String requisicaoPost(@RequestBody DadosMedicos medico){
         medicos.add(medico);
