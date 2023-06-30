@@ -13,6 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import br.com.tech4me.clinica.model.DadosProcedimento;
 
+
 @RestController
 @RequestMapping("/procedimentos")
 public class ProcedimentosController {
